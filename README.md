@@ -5,7 +5,8 @@
 - 📫 How to reach me technopigofficial01@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My favourite school lesson has always been ICT
-
+- https://github.com/ABM-Official
+- https://www.github.com/KokaineDiscordBot
 <!---
 KingUndertale/KingUndertale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
